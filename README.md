@@ -1,2 +1,8 @@
-# Ecommerce
-Developed a responsive e-commerce web app for online dress shopping using React.js with features like product listings, dynamic pages, and shopping cart. Enhanced user experience through mobile-friendly UI using HTML, CSS, and efficient state management for seamless cart operations.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
