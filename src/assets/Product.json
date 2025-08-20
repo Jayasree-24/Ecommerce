@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "name": "Round Neck T-shirt",
+        "amt": "200",
+        "type": "Wool",
+        "pic": "/images/Wool_Tshirt.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 2,
+        "name": "Collar T-shirt",
+        "amt": "250",
+        "type": "Cotton",
+        "pic": "/images/Collar_Tshirt.jpg",
+        "latest": "No"
+
+    },
+    {
+        "id": 3,
+        "name": "Anarkali kurtis",
+        "amt": "500",
+        "type": "Nylon",
+        "pic": "/images/Anarkali_kurtis.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 4,
+        "name": "Plazoo set",
+        "amt": "300",
+        "type": "Cotton",
+        "pic": "/images/Plazo_kurti.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 5,
+        "name": "Chudidhar type",
+        "amt": "530",
+        "ftype": "Cotton",
+        "pic": "/images/Chudidhar.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 6,
+        "name": "Choli",
+        "amt": "650",
+        "type": "Net lehenga",
+        "pic": "/images/lehenga_choli.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 7,
+        "name": "Womens jeans",
+        "amt": "450",
+        "type": "Wool",
+        "pic": "/images/jeans.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 8,
+        "name": "Men Kurta",
+        "amt": "520",
+        "type": "Cotton",
+        "pic": "/images/Kurta_Pajama.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 9,
+        "name": "Sarees",
+        "amt": "260",
+        "type": "Silk",
+        "pic": "/images/saree.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 10,
+        "name": "Men Track Pants",
+        "amt": "400",
+        "type": "Polyster",
+        "pic": "/images/Track_pants.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 11,
+        "name": "Jwellery",
+        "amt": "450",
+        "ftype": "silver",
+        "pic": "/images/necklaces.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 12,
+        "name": "Watch",
+        "amt": "1000",
+        "type": "Metal",
+        "pic": "/images/Men_watch.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 13,
+        "name": "Bag",
+        "amt": "350",
+        "type": "Leather",
+        "pic": "/images/handbag.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 14,
+        "name": "Makeup accessories",
+        "amt": "600",
+        "type": "eye shadows",
+        "pic": "/images/Makeup_set.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 15,
+        "name": "sports shoes",
+        "amt": "250",
+        "type": "Mesh",
+        "pic": "/images/shoes.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 16,
+        "name": "slippers",
+        "amt": "450",
+        "type": "leather",
+        "pic": "/images/slippers.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 17,
+        "name": "earpods",
+        "amt": "450",
+        "type": "wireless",
+        "pic": "/images/earpods.jpg",
+        "latest": "Yes"
+    },
+    
+    {
+        "id": 18,
+        "name": "Bags",
+        "amt": "560",
+        "type": "leather",
+        "pic": "/images/college_bags.jpg",
+        "latest": "Yes"
+    }
+]
